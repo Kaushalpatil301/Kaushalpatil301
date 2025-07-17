@@ -29,13 +29,6 @@
 
 ---
 
-### 🐍 Just for Fun
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🧠 Favorite Developer Quote 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
